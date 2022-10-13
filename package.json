@@ -1,0 +1,17 @@
+{
+  "name": "poc-generate-transcription-audio-video",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-transcription-to-srt": "^1.0.6",
+    "axios": "^1.1.2",
+    "dotenv": "^16.0.3"
+  }
+}
